@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerchar&show_icons=true&locale=en&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="flowerchar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerchar&" alt="flowerchar" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerchar&" alt="flowerchar" /></p> -->
