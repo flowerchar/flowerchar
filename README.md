@@ -1,13 +1,13 @@
-<!-- # flowerchar
+# flowerchar
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowerchar&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowerchar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
  <h1 align="center">Hi 👋, I'm flowerchar</h1>
 <h3 align="center">A backend engineer with some frontend skills</h3>
-<!-- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flowerchar&label=Profile%20views&color=0e75b6&style=flat" alt="flowerchar" /> </p>
- -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flowerchar" alt="flowerchar" /></a> </p> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flowerchar" alt="flowerchar" /></a> </p>
 
 - 🔭 I’m currently working on [Nanjing Audit University](https://www.nau.edu.cn/)
 
@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerchar&show_icons=true&locale=en&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="flowerchar" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerchar&" alt="flowerchar" /></p> -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=flower&left_color=black&right_color=blue)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=flower&left_color=black&right_color=blue) -->
