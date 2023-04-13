@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Nanjing Audit University](https://www.nau.edu.cn/)
 
-- 🌱 I’m currently learning **Springboot+Vue3**
+- 🌱 I’m currently learning **Springboot3+Vue3**
 
 - 📫 How to reach me **flowerchar2001@gmail.com**
 
