@@ -24,7 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowerchar&show_icons=true&locale=en&hide=html,css,javascript,jupyter&layout=compact" alt="flowerchar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerchar&show_icons=true&locale=en&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="flowerchar" /></p>
+<!-- <p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerchar&show_icons=true&locale=en&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="flowerchar" /></p>-->
 <!-- contribs, -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerchar&" alt="flowerchar" /></p> -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=flower&left_color=black&right_color=blue) -->
