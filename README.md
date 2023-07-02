@@ -26,6 +26,7 @@
 
 <!-- <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flowerchar&show_icons=true&locale=en&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="flowerchar" /></p>-->
+ <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <!-- contribs, -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flowerchar&" alt="flowerchar" /></p> -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=flower&left_color=black&right_color=blue) -->
