@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **flowerchar2001@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flowerchar&show_icons=true&locale=en&hide=html,css,javascript,jupyter%20notebook,tex,vim%20script&layout=compact" alt="flowerchar" /></p>
-<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=flowerchar&count_private=true&show_icons=true&hide=contribs,prs"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flowerchar/flowerchar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flowerchar/flowerchar/output/github-contribution-grid-snake.svg">
